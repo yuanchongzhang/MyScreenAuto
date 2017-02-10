@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="divider" >#e2e2e2</color>
+
+
+    <color name="white">#ffffff</color>
+
+    <color name="line">#c9c9c9</color>
+    <color name="textcolor">#c3c3c3</color>
+
+
+    <!--主色调-->
+    <color name="colorTextGrey"             >#969696</color><!--主页底部tab栏未选中状态字体颜色-->
+    <!--banner图下方分界线颜色1-->
+    <!--banner图下方分界线颜色2-->
+    <!--灰（分界线颜色）-->
+    <!--AM灰（分界线颜色）-->
+    <!--粉红-->
+    <!--忘记密码粉红-->
+    <!--深灰（阴影）-->
+    <!--黑色（同字体颜色）-->
+    <!--浅黑色（同字体颜色）-->
+    <!--白色（同字体颜色）-->
+    <!--灰色（同hint字体颜色）-->
+    <!--更深灰（FirstFragment字体颜色）-->
+    <!--更深灰（FirstFragment字体颜色）-->
+    <!--更深灰（tab颜色）-->
+    <!--更深灰1（listitem字体颜色1）-->
+    <!--更深灰2（listitem字体颜色2）-->
+    <!--更深灰3（listitem分界线颜色）-->
+    <!--更深灰4（listitem分界线颜色）-->
+    <!--更深灰5（listitem分界线颜色）-->
+    <!--更深灰5（griditem分界线颜色）-->
+    <!--更深灰5（gridtext分界线颜色）-->
+    <!--更深灰5（gridtext分界线颜色）-->
+    <!--更深灰5（gridtext分界线颜色）-->
+    <!--更深灰5（gridtext分界线颜色）-->
+    <!--更深灰5（gridtext分界线颜色）-->\
+
+    <color name="transparent"               >#00000000</color>
+
+    <color name="greyText"                  >#999999</color>
+
+
+    <color name="bg">#F0F0F0</color>
+    <color name="partTranslucent">#39000000</color>
+</resources>
